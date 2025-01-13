@@ -1,10 +1,3 @@
----
-title: Lecture Transcript Cleaner (講者備註移除工具)
-description: A specialized Python utility for streamlining Chinese lecture transcripts by removing metadata headers and speaker notes
-author: Your Name
-date: January 13, 2025
----
-
 # Lecture Transcript Cleaner Documentation
 
 Welcome to the documentation for the Lecture Transcript Cleaner, a purpose-built Python tool designed to streamline and standardize Chinese lecture transcripts. This document will guide you through understanding, installing, and effectively using the tool to process your transcript files.
@@ -155,14 +148,6 @@ To get the most out of the Lecture Transcript Cleaner:
 3. Keep regular backups of your original files
 4. Process files in manageable batches
 5. Review processed files to ensure desired outcomes
-
-## Support and Contact
-
-For assistance with the tool:
-
-1. Open an issue on the GitHub repository
-2. Email support: [your-email@example.com]
-3. Check the latest documentation updates
 
 ## Contributing
 
